@@ -304,6 +304,241 @@
 		</div>
 	</div>
 </section>
+
+<!-- Start Website Section  -->
+
+<section class=what-did style="background: #fff;">
+	<div class=container>
+		<div class=row>
+			<div class="col-md-6">
+				<div class="heading-title text-left">
+					<h2>What Did You Recieve With Milness Showcase</h2>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation.</p>
+				</div>
+				<!-- Block item -->
+				<div class="section-icon-text text-with-icon">
+					<div class=section-class-item>
+						<div class=item-icon>
+							<span class=icon-wrap><i class=pe-7s-check></i></span>
+						</div>
+						<div class="item-text text-left">
+							<p>Beautiful, modern design</p>
+						</div>
+					</div>
+				</div>
+				<!-- Block item -->
+				<div class="section-icon-text text-with-icon">
+					<div class=section-class-item>
+						<div class=item-icon>
+							<span class=icon-wrap><i class=pe-7s-check></i></span>
+						</div>
+						<div class="item-text text-left">
+							<p>Cool animations</p>
+						</div>
+					</div>
+				</div>
+				<!-- Block item -->
+				<div class="section-icon-text text-with-icon">
+					<div class=section-class-item>
+						<div class=item-icon>
+							<span class=icon-wrap><i class=pe-7s-check></i></span>
+						</div>
+						<div class="item-text text-left">
+							<p>HTML5 and CSS3</p>
+						</div>
+					</div>
+				</div>
+				<!-- Block item -->
+				<div class="section-icon-text text-with-icon">
+					<div class=section-class-item>
+						<div class=item-icon>
+							<span class=icon-wrap><i class=pe-7s-check></i></span>
+						</div>
+						<div class="item-text text-left">
+							<p>Great 24/7 support</p>
+						</div>
+					</div>
+				</div>
+				<!-- Block item -->
+				<div class="section-icon-text text-with-icon">
+					<div class=section-class-item>
+						<div class=item-icon>
+							<span class=icon-wrap><i class=pe-7s-check></i></span>
+						</div>
+						<div class="item-text text-left">
+							<p>Well documentation</p>
+						</div>
+					</div>
+				</div>
+				<!-- End Block items -->
+			</div>
+			<div class=col-md-5>
+				<div class=iphones-section>
+					<div class=iphones>
+						<!-- <img class=left-mob-front src="<?php echo base_url();?>assets/img/Iphone-mob-front.png.pagespeed.ce.oBXPXptEMV.png" alt=iphone> -->
+						<img class=left-mob-back src="<?php echo base_url();?>assets/img/Iphone-mob-back.png.pagespeed.ce.puh7D6Et5r.png" alt=iphone>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class=what-did>
+	<div class=container>
+		<div class=row>
+			<div class=col-md-5>
+				<div class=iphones-section>
+					<div class=iphones>
+						<img class=left-mob-front src="<?php echo base_url();?>assets/img/Iphone-mob-front.png.pagespeed.ce.oBXPXptEMV.png" alt=iphone>
+						<img class=left-mob-back src="<?php echo base_url();?>assets/img/Iphone-mob-back.png.pagespeed.ce.puh7D6Et5r.png" alt=iphone>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-md-push-1">
+				<div class="heading-title text-left">
+					<h2>What Did You Recieve With Milness Showcase</h2>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation.</p>
+				</div>
+				<!-- Block item -->
+				<div class="section-icon-text text-with-icon">
+					<div class=section-class-item>
+						<div class=item-icon>
+							<span class=icon-wrap><i class=pe-7s-check></i></span>
+						</div>
+						<div class="item-text text-left">
+							<p>Beautiful, modern design</p>
+						</div>
+					</div>
+				</div>
+				<!-- Block item -->
+				<div class="section-icon-text text-with-icon">
+					<div class=section-class-item>
+						<div class=item-icon>
+							<span class=icon-wrap><i class=pe-7s-check></i></span>
+						</div>
+						<div class="item-text text-left">
+							<p>Cool animations</p>
+						</div>
+					</div>
+				</div>
+				<!-- Block item -->
+				<div class="section-icon-text text-with-icon">
+					<div class=section-class-item>
+						<div class=item-icon>
+							<span class=icon-wrap><i class=pe-7s-check></i></span>
+						</div>
+						<div class="item-text text-left">
+							<p>HTML5 and CSS3</p>
+						</div>
+					</div>
+				</div>
+				<!-- Block item -->
+				<div class="section-icon-text text-with-icon">
+					<div class=section-class-item>
+						<div class=item-icon>
+							<span class=icon-wrap><i class=pe-7s-check></i></span>
+						</div>
+						<div class="item-text text-left">
+							<p>Great 24/7 support</p>
+						</div>
+					</div>
+				</div>
+				<!-- Block item -->
+				<div class="section-icon-text text-with-icon">
+					<div class=section-class-item>
+						<div class=item-icon>
+							<span class=icon-wrap><i class=pe-7s-check></i></span>
+						</div>
+						<div class="item-text text-left">
+							<p>Well documentation</p>
+						</div>
+					</div>
+				</div>
+				<!-- End Block items -->
+			</div>
+		</div>
+	</div>
+</section>
+<section class=what-did style="background: #fff;">
+	<div class=container>
+		<div class=row>
+			<div class="col-md-6">
+				<div class="heading-title text-left">
+					<h2>What Did You Recieve With Milness Showcase</h2>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation.</p>
+				</div>
+				<!-- Block item -->
+				<div class="section-icon-text text-with-icon">
+					<div class=section-class-item>
+						<div class=item-icon>
+							<span class=icon-wrap><i class=pe-7s-check></i></span>
+						</div>
+						<div class="item-text text-left">
+							<p>Beautiful, modern design</p>
+						</div>
+					</div>
+				</div>
+				<!-- Block item -->
+				<div class="section-icon-text text-with-icon">
+					<div class=section-class-item>
+						<div class=item-icon>
+							<span class=icon-wrap><i class=pe-7s-check></i></span>
+						</div>
+						<div class="item-text text-left">
+							<p>Cool animations</p>
+						</div>
+					</div>
+				</div>
+				<!-- Block item -->
+				<div class="section-icon-text text-with-icon">
+					<div class=section-class-item>
+						<div class=item-icon>
+							<span class=icon-wrap><i class=pe-7s-check></i></span>
+						</div>
+						<div class="item-text text-left">
+							<p>HTML5 and CSS3</p>
+						</div>
+					</div>
+				</div>
+				<!-- Block item -->
+				<div class="section-icon-text text-with-icon">
+					<div class=section-class-item>
+						<div class=item-icon>
+							<span class=icon-wrap><i class=pe-7s-check></i></span>
+						</div>
+						<div class="item-text text-left">
+							<p>Great 24/7 support</p>
+						</div>
+					</div>
+				</div>
+				<!-- Block item -->
+				<div class="section-icon-text text-with-icon">
+					<div class=section-class-item>
+						<div class=item-icon>
+							<span class=icon-wrap><i class=pe-7s-check></i></span>
+						</div>
+						<div class="item-text text-left">
+							<p>Well documentation</p>
+						</div>
+					</div>
+				</div>
+				<!-- End Block items -->
+			</div>
+			<div class=col-md-5>
+				<div class=iphones-section>
+					<div class=iphones>
+						<img class=left-mob-front src="<?php echo base_url();?>assets/img/Iphone-mob-front.png.pagespeed.ce.oBXPXptEMV.png" alt=iphone>
+						<img class=left-mob-back src="<?php echo base_url();?>assets/img/Iphone-mob-back.png.pagespeed.ce.puh7D6Et5r.png" alt=iphone>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- End Website Section  -->
+
+
 <hr style="box-shadow:1px 1px 3px 1px rgba(0,0,0,0.38);background:#fff;">
 <section class="screenshots">
 	<div class=container>

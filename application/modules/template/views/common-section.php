@@ -1,72 +1,5 @@
 
-<section class="downloads white-color" style="padding-bottom: 0px;">
-<!-- Partners section -->
-    <div class=partners-suction>
-        <div class="row">
-            <div class="col-md-6 col-md-push-3">
-                <h2 class="text-center">Our Achievement</h2><br>
-                <p class="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-            </div>
-        </div>
-        <br><br>
-        <div class=container>
-            <div class=row>
-                <div class=container-carousel>
-                    <div class=parnters-item>
-                        <!-- Item block -->
-                        <div class=col-md-3>
-                            <div class=item-parnters>
-                                <img src="<?php echo base_url();?>assets/img/Google-mobile.png" width="150px" alt="">
-                            </div>
-                        </div>
-                        <!-- Item block -->
-                        <div class=col-md-3>
-                            <div class=item-parnters>
-                                <img src="<?php echo base_url();?>assets/img/yelp.png" width="150px" alt="">
-                            </div>
-                        </div>
-                        <!-- Item block -->
-                        <div class=col-md-3>
-                            <div class=item-parnters>
-                                <img src="<?php echo base_url();?>assets/img/web-designer.png"  width="150px" alt="">
-                            </div>
-                        </div>
-                        <!-- Item block -->
-                        <div class=col-md-3>
-                            <div class=item-parnters>
-                                <img src="<?php echo base_url();?>assets/img/advertising_marketing_agencies_losangeles_2018.png" width="150px" alt="">
-                            </div>
-                        </div>
-                        <!-- Item block -->
-                        <div class=col-md-3>
-                            <div class=item-parnters>
-                                <img src="<?php echo base_url();?>assets/img/Local-SEO.png" width="150px" alt="">
-                            </div>
-                        </div>
-                        <div class=col-md-3>
-                            <div class=item-parnters>
-                                <img src="<?php echo base_url();?>assets/img/best-wordpress-agency.png" width="150px" alt="">
-                            </div>
-                        </div>
-                        <div class=col-md-3>
-                            <div class=item-parnters>
-                                <img src="<?php echo base_url();?>assets/img/best-ecommerce-design-agencies.png" width="150px" alt="">
-                            </div>
-                        </div>
-                        <!-- End Item blocks -->
-                    </div>
-                    <!-- Strat Control carousel -->
-                    <div class=prev-next-block id=control-partners>
-                        <div class=prev><i class=pe-7s-angle-left></i></div>
-                        <div class=next><i class=pe-7s-angle-right></i></div>
-                    </div>
-                    <!-- End Control carousel -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Download section -->
-</section>
+
 <!-- Start Contact Section -->
 <section class=contact-info>
     <div class=container>
@@ -139,6 +72,75 @@
             <!-- Block item -->
         </div>
     </div>
+</section>
+
+<section class="downloads white-color" style="padding-bottom: 0px;">
+<!-- Partners section -->
+    <div class=partners-suction>
+        <div class="row">
+            <div class="col-md-6 col-md-push-3">
+                <h2 class="text-center">Our Achievement</h2><br>
+                <p class="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            </div>
+        </div>
+        <br><br>
+        <div class=container>
+            <div class=row>
+                <div class=container-carousel>
+                    <div class=parnters-item>
+                        <!-- Item block -->
+                        <div class=col-md-3>
+                            <div class=item-parnters>
+                                <img src="<?php echo base_url();?>assets/img/Google-mobile.png" width="150px" alt="">
+                            </div>
+                        </div>
+                        <!-- Item block -->
+                        <div class=col-md-3>
+                            <div class=item-parnters>
+                                <img src="<?php echo base_url();?>assets/img/yelp.png" width="150px" alt="">
+                            </div>
+                        </div>
+                        <!-- Item block -->
+                        <div class=col-md-3>
+                            <div class=item-parnters>
+                                <img src="<?php echo base_url();?>assets/img/web-designer.png"  width="150px" alt="">
+                            </div>
+                        </div>
+                        <!-- Item block -->
+                        <div class=col-md-3>
+                            <div class=item-parnters>
+                                <img src="<?php echo base_url();?>assets/img/advertising_marketing_agencies_losangeles_2018.png" width="150px" alt="">
+                            </div>
+                        </div>
+                        <!-- Item block -->
+                        <div class=col-md-3>
+                            <div class=item-parnters>
+                                <img src="<?php echo base_url();?>assets/img/Local-SEO.png" width="150px" alt="">
+                            </div>
+                        </div>
+                        <div class=col-md-3>
+                            <div class=item-parnters>
+                                <img src="<?php echo base_url();?>assets/img/best-wordpress-agency.png" width="150px" alt="">
+                            </div>
+                        </div>
+                        <div class=col-md-3>
+                            <div class=item-parnters>
+                                <img src="<?php echo base_url();?>assets/img/best-ecommerce-design-agencies.png" width="150px" alt="">
+                            </div>
+                        </div>
+                        <!-- End Item blocks -->
+                    </div>
+                    <!-- Strat Control carousel -->
+                    <div class=prev-next-block id=control-partners>
+                        <div class=prev><i class=pe-7s-angle-left></i></div>
+                        <div class=next><i class=pe-7s-angle-right></i></div>
+                    </div>
+                    <!-- End Control carousel -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Download section -->
 </section>
 <!-- Start Contact Form Section -->
 <section class="form-contact bg-mask white-color" id=contact>
