@@ -132,3 +132,9 @@
 <div class="top icon-down toTopFromBottom">
     <a href="#top" class=smooth-scroll><i class=pe-7s-angle-up></i></a>
 </div>
+<div class="side-floating-div">
+    <span style=""><a href="mailto:luxe@luxemedispa.com"><i class="fa fa-envelope" style="font-size:20px;color:#fff;"></i></a></span>
+    <span style="background-color:#1e984b;"><a href="whatsapp://send?phone=919911197771" onclick="ga('send', 'event', 'WhatsApp Saurabh', 'Click to Call', '+91 991 119 7771', 0);" class="floating blinking" target="_blank">
+        <i class="fa fa-whatsapp my-float"></i></a></span>
+    <span><a href="tel:+1-805-500-6589" onclick="ga(‘send’, ‘event’, ‘Phone Number’, ‘Clicked’);" class="cont_no"><i class="fa fa-phone" style="font-size:20px;color:#fff;"></i></a></span>
+</div>
